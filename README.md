@@ -1,2 +1,2 @@
-# ibm-capstone
- This's jiax ibm-capstone
+# Capstone Project: Cognos Dashboard
+IBM Data Analyst Professional Certificate
